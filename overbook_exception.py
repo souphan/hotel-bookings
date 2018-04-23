@@ -1,0 +1,1 @@
+class OverBookException(Exception): pass
